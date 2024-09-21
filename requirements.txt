@@ -1,0 +1,4 @@
+streamlit==1.15.0
+pandas==2.0.3
+beautifulsoup4==4.12.2
+selenium==4.8.0
